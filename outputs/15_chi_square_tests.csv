@@ -1,0 +1,5 @@
+variable,vs,chi2,p_value,significant_at_0.05
+Product,OrderStatus,17.89,0.8081,False
+PaymentMethod,OrderStatus,22.54,0.1265,False
+ReferralSource,OrderStatus,34.13,0.0052,True
+CouponCode,OrderStatus,9.99,0.617,False

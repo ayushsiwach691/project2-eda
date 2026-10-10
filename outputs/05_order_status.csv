@@ -1,0 +1,6 @@
+OrderStatus,orders,revenue,orders_%,revenue_%
+Cancelled,250,276396.21,20.8,21.9
+Delivered,231,242600.32,19.2,19.2
+Pending,237,256328.15,19.8,20.3
+Returned,247,243277.7,20.6,19.2
+Shipped,235,246159.58,19.6,19.5
