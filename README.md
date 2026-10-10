@@ -1,4 +1,7 @@
 # Project 2: Exploratory Data Analysis (EDA) — E-commerce Orders
+**Author:** Ayush Siwach
+**Internship:** DecodeLabs | Data Analytics | Batch 2027
+**GitHub:** [ayushsiwach691](https://github.com/ayushsiwach691)
 
 **DecodeLabs | Data Analytics Industrial Training Kit | Batch 2026**
 
